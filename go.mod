@@ -85,7 +85,7 @@ require (
 	github.com/containerd/containerd v1.6.6 // indirect
 	github.com/containerd/continuity v0.3.0 // indirect
 	github.com/containerd/ttrpc v1.1.0 // indirect
-	github.com/cyphar/filepath-securejoin v0.2.3 // indirect
+	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/docker/cli v20.10.17+incompatible // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
@@ -303,7 +303,7 @@ replace (
 	github.com/mattn/go-sqlite3 => github.com/mattn/go-sqlite3 v1.10.0
 	github.com/onsi/ginkgo/v2 => github.com/onsi/ginkgo/v2 v2.1.3
 	github.com/opencontainers/image-spec => github.com/opencontainers/image-spec v1.0.2
-	github.com/opencontainers/runc => github.com/opencontainers/runc v1.0.3
+	github.com/opencontainers/runc => github.com/opencontainers/runc v1.1.12
 	github.com/openshift/custom-resource-status => github.com/openshift/custom-resource-status v1.1.2
 	github.com/prometheus/client_golang => github.com/prometheus/client_golang v1.11.1
 	golang.org/x/text => golang.org/x/text v0.3.3
